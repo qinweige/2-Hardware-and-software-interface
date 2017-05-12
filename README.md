@@ -1,2 +1,4 @@
-# 2-Hardware-and-software-interface
-computer basic knowledge lecture
+CSE351
+======
+
+CSE351: The Hardware/Software Interface (taught by Luis Ceze)
